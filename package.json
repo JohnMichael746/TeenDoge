@@ -1,0 +1,33 @@
+{
+  "name": "teendoge",
+  "version": "1.0.0",
+  "description": "ERC20 Token & DEX",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudiptab2100/JizzRocket.git"
+  },
+  "keywords": [
+    "$JIZZ"
+  ],
+  "author": "Sudipta Basak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sudiptab2100/JizzRocket/issues"
+  },
+  "homepage": "https://github.com/sudiptab2100/JizzRocket#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.1.0",
+    "@truffle/hdwallet-provider": "^1.4.1",
+    "web3": "^1.4.0"
+  },
+  "devDependencies": {
+    "truffle-plugin-verify": "^0.5.10"
+  }
+}
